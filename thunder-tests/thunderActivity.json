@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "d2d606a4-36e6-491a-9159-05b02623433e",
+    "colId": "history",
+    "containerId": "",
+    "name": "https://dummyjson.com/products",
+    "url": "https://dummyjson.com/products",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-01-15T13:18:14.682Z",
+    "modified": "2023-01-15T13:18:14.682Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
